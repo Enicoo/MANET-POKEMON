@@ -12,3 +12,4 @@ model NewModel
 /*this is a comment to add experimental purpose */
 /* Insert your model definition here */
 /*Nico trial */
+/*john trial */
